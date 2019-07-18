@@ -7,7 +7,7 @@ Dependencies - NodeJS
 Clone this repo
 
 ```bash
-git clone git@github.com:agentgill/10k-volly-test.git
+git clone git@github.com:agentgill/platformevents-quickstart.git
 ```
 
 Run install
